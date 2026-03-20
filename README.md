@@ -1,2 +1,3 @@
-# super-api-service-qjkw
-Automated issue comment bot repository
+# Super Api Service Qjkw
+
+Automated issue comment bot repository.
